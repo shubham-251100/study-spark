@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(npx tsc:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(pnpm install:*)",
+      "Bash(git -C /mnt/c/Users/LENOVO/OneDrive/Desktop/Shubham/School/School/skill-up-schools status)"
     ]
   }
 }
