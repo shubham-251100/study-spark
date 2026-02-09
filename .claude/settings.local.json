@@ -4,7 +4,8 @@
       "Bash(npx tsc:*)",
       "Bash(node:*)",
       "Bash(pnpm install:*)",
-      "Bash(git -C /mnt/c/Users/LENOVO/OneDrive/Desktop/Shubham/School/School/skill-up-schools status)"
+      "Bash(git -C /mnt/c/Users/LENOVO/OneDrive/Desktop/Shubham/School/School/skill-up-schools status)",
+      "WebSearch"
     ]
   }
 }
